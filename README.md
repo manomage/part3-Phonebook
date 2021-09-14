@@ -3,7 +3,7 @@ A fullstack phonebook app with a backend written in Node.js and a frontend in re
 
 https://radiant-hamlet-02653.herokuapp.com
 
-# Start the application locally;
+Start the application locally;
 
 To start an application:
 
